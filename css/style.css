@@ -34,13 +34,19 @@ header {
     margin: 10px auto;
 }
 
-.bottom-section div {
+.row {
+    padding: 10px 0;
+}
+
+.row div, .top-bar {
     background-color: #abcfe7;
 }
 
+
+
 .top-bar {
     height: 100px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
 }
 
 .side-column{
